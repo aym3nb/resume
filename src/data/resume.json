@@ -1,0 +1,87 @@
+{
+  "name": "Aymen Bareche",
+  "location": "Berlin, Germany",
+  "contact": {
+    "email": "aym3nb@gmail.com",
+    "mobile": "+491789197980",
+    "github": "aym3nb",
+    "linkedin": "aymen-bareche"
+  },
+  "summary": "Senior Full Stack Engineer with 9+ years of experience delivering full-stack solutions using Vue, TypeScript, Node.js, and modern DevOps tooling. Proven ability to take ownership of complex projects, lead initiatives, and drive technical excellence across teams.",
+  "experience": [
+    {
+      "company": "Homeday",
+      "location": "Berlin, Germany",
+      "role": "Senior Frontend Engineer",
+      "period": "Mar 2022 – Present",
+      "highlights": [
+        "Spearheaded the complete development of major features, leading full-stack implementation from backend REST APIs to modern, performant Vue-based UIs.",
+        "Independently delivered complex projects across infrastructure, frontend, and backend layers, demonstrating autonomy and technical breadth.",
+        "Revitalized a legacy frontend application, improving performance by 15–20% and enabling faster iteration through scalable architecture and cleaner code.",
+        "Proactively expanded into backend engineering (Ruby on Rails) to unlock cross-functional delivery, owning backend workflows and features.",
+        "Delivered business-critical initiatives that improved agent productivity, seller insights, and legal compliance.",
+        "Drove internal documentation standards and support tooling that empowered other teams to self-serve and troubleshoot effectively.",
+        "Recognized with multiple company awards for exceptional ownership, initiative, and innovation."
+      ]
+    },
+    {
+      "company": "Homeday",
+      "location": "Berlin, Germany",
+      "role": "Frontend Engineer",
+      "period": "Dec 2019 – Feb 2022",
+      "highlights": [
+        "Led development efforts across multiple major Vue.js projects, contributing to scalable architecture, modularization, and UI consistency aligned with the design system.",
+        "Took full ownership of refactoring a legacy project by modernizing core flows, redesigning layouts, and introducing new features — resulting in improved usability, higher conversion rates, and smoother cross-squad collaboration.",
+        "Continuously maintained up-to-date technical and tracking documentation to support cross-squad collaboration and knowledge transfer.",
+        "Conducted technical interviews, helping hire two top candidates after extensive screening rounds.",
+        "Actively contributed to engineering culture via knowledge-sharing sessions, engineering all-hands, and cross-team collaboration."
+      ]
+    },
+    {
+      "company": "TRT World",
+      "location": "Istanbul, Turkey",
+      "role": "Software Engineer",
+      "period": "Aug 2018 – Nov 2019",
+      "highlights": [
+        "Developed backend and frontend features for an internal CMS, using Node.js, Express, Vue.js, Vuex, and REST APIs.",
+        "Migrated parts of a legacy Angular app to Vue.js, improving maintainability and performance.",
+        "Built and deployed multiple Smart TV apps (Samsung, LG, Alliance), serving millions of users, with integrated ads and custom tracking for analytics and engagement.",
+        "Delivered a high-traffic HbbTV app providing full VOD access to the TRT network.",
+        "Set up CI/CD pipelines with Jenkins, integrated Sentry for error monitoring, and wrote tests using Mocha, Chai, and Istanbul.",
+        "Worked in Agile Scrum and Kanban teams using Jira, Confluence, Docker, and AWS."
+      ]
+    },
+    {
+      "company": "Ozser Group Sigorta",
+      "location": "Istanbul, Turkey",
+      "role": "Software Engineer",
+      "period": "Jun 2016 – Jul 2018",
+      "highlights": [
+        "Refactored a legacy PHP codebase into a modular MVC architecture, improving the reliability and maintainability of the white-label insurance platform.",
+        "Developed new features using JavaScript, jQuery, Bootstrap, and AJAX, integrated with REST APIs and MySQL.",
+        "Built internal tools to automate workflows for operations staff, including a cloud-based document printing system and a document scanning + auto-fill utility.",
+        "Maintained and extended WordPress modules, applied SEO practices, and managed deployments on DigitalOcean.",
+        "Collaborated using Git, Trello, and Agile Kanban."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor in Software Engineering",
+      "institution": "University of Constantine 2",
+      "location": "Constantine, Algeria",
+      "period": "Sep 2013 – May 2016"
+    }
+  ],
+  "certifications": [
+    {
+      "degree": "Full Stack Development Certification",
+      "institution": "Free Code Camp",
+      "location": "Remote",
+      "period": "Oct 2016 – Jan 2017"
+    }
+  ],
+  "additionalInformation": [
+    "Permanent resident of Germany (Niederlassungserlaubnis) – Work authorization granted."
+  ]
+}
