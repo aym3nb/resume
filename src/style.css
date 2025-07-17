@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #111827;
+}
+
+.dark {
+  --color-bg: #0f172a;
+  --color-text: #f1f5f9;
+}
+
+html,
+body {
+  @apply min-h-screen m-0 p-0;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: system-ui, sans-serif;
+}
+
+a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+* {
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
