@@ -34,7 +34,7 @@ const toggleDarkMode = () => {
 </script>
 
 <template>
-  <main :class="{ dark: isDark }" class="min-h-screen bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100">
+  <main :class="{ dark: isDark }" class="min-h-screen bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-100 px-4 lg:px-0">
     <ResumeActions :isDark="isDark" @toggleTheme="toggleDarkMode" />
 
     <div class="max-w-3xl mx-auto">
