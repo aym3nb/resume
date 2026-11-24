@@ -1,0 +1,14 @@
+src/data/resume.json
+  h_9178a6a57a23c9 10,18-22,31-34,43-46,55-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a2432f744e43b2dfca2fd245b5629325c8b44574",
+  "prompts": {},
+  "humans": {
+    "h_9178a6a57a23c9": {
+      "author": "aym3nb <aym3nb@gmail.com>"
+    }
+  }
+}
