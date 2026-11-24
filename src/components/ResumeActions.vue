@@ -18,7 +18,7 @@ const handleToggle = () => {
     </button>
 
     <a
-      href="/AYMEN_BARECHE_Resume.pdf"
+      href="https://drive.google.com/file/d/1qMFqG2lwrZTIypeuTEQ_IuZsz_y-4utp/view?usp=drivesdk"
       download
       class="text-xl hover:opacity-75 transition cursor-pointer ml-4"
       title="Download Resume"
