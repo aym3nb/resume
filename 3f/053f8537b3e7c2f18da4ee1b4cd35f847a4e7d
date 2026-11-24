@@ -1,0 +1,14 @@
+src/components/ResumeActions.vue
+  h_9178a6a57a23c9 21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f053f8537b3e7c2f18da4ee1b4cd35f847a4e7d",
+  "prompts": {},
+  "humans": {
+    "h_9178a6a57a23c9": {
+      "author": "aym3nb <aym3nb@gmail.com>"
+    }
+  }
+}
